@@ -1,0 +1,49 @@
+[
+    {
+        "outputFile": "C:\\Users\\TienH\\.AndroidStudio2.1\\Project\\NMR-TUTOR-Test-master\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 202
+                },
+                "from": {
+                    "file": "C:\\Users\\TienH\\.AndroidStudio2.1\\Project\\NMR-TUTOR-Test-master\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 219,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 207,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 378
+                },
+                "from": {
+                    "file": "C:\\Users\\TienH\\.AndroidStudio2.1\\Project\\NMR-TUTOR-Test-master\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 376,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 547
+                    }
+                }
+            }
+        ]
+    }
+]

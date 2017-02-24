@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="1297978230086048"
+    token="-4647501986011084149"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="168" />
+    <task
+        name="instant-run-dex"
+        duration="421" />
+    <task
+        name="instant-run-transform"
+        duration="63" />
+    <task
+        name="verifier"
+        duration="3" />
+
+    <artifact
+        location="C:\Users\TienH\.AndroidStudio2.1\Project\NMR-TUTOR-Test-master\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build timestamp="1297816770969950" >
+        <artifact
+            location="C:\Users\TienH\.AndroidStudio2.1\Project\NMR-TUTOR-Test-master\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="1297978230086048"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\TienH\.AndroidStudio2.1\Project\NMR-TUTOR-Test-master\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

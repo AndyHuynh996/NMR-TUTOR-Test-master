@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#949494" >
+
+   <ImageView
+       android:id="@+id/imgView"
+       android:background="#949494"
+       android:layout_width="match_parent"
+       android:layout_height="400dp"
+       android:layout_alignParentLeft="true"
+       android:layout_alignParentTop="true" />
+   <Button
+       android:layout_width="wrap_content"
+       android:layout_height="fill_parent"
+       android:text="IR"
+       android:id="@+id/IRBut"
+       android:layout_below="@+id/imgView"
+       android:layout_alignParentLeft="true"
+       android:layout_alignParentStart="true" />
+
+   <Button
+       android:layout_width="wrap_content"
+       android:layout_height="fill_parent"
+       android:text="NMR"
+       android:id="@+id/NMRBut"
+       android:layout_alignTop="@+id/IRBut"
+       android:layout_centerHorizontal="true" />
+
+   <Button
+       android:layout_width="wrap_content"
+       android:layout_height="fill_parent"
+       android:text="CNMR"
+       android:id="@+id/CNMRBut"
+       android:layout_below="@+id/imgView"
+       android:layout_alignParentRight="true"
+       android:layout_alignParentEnd="true" />
+</RelativeLayout>
